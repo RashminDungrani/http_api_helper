@@ -10,6 +10,13 @@ For general information about developing packages, see the Dart guide for
 and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
+# HTTP API Helper
+
+<!-- [![Pub Version](https://img.shields.io/pub/v/http_api_helper.svg)](https://pub.dev/packages/http_api_helper) -->
+<!-- [![GitHub License](https://img.shields.io/github/license/your-username/http_api_helper.svg)](https://github.com/your-username/http_api_helper/blob/main/LICENSE) -->
+
+Dart package for simplified API integration and HTTP requests in Flutter projects.
+
 
 TODO: Put a short description of the package here that helps potential users
 know whether this package might be useful for them.
